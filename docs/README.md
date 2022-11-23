@@ -8,7 +8,7 @@
 
 **下载地址**
 
-[奶牛快传 (2022-11-24)](https://cowtransfer.com/s/26934a3c328341)
+[奶牛快传 (2022-11-24)](https://cowtransfer.com/s/28df9197ee8c45)
 
 **视频介绍合集：**
 
