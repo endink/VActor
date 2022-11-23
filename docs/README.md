@@ -3,6 +3,8 @@
 基于 Google Mediapipe , UnrealEngine 的动补、面补软件   
 
 
+![screen](./images/screen_snapshot.jpg "screen")
+
 > 本软件基于 UnrealEngine 插件 **[MediaPipe4U](https://github.com/endink/Mediapipe4u-plugin)** 制作。
 ---
 
