@@ -17,6 +17,10 @@
 
 [B站](https://space.bilibili.com/481665211/channel/collectiondetail?sid=810148)
 
+** 感谢 **
+
+感谢 **[Noesis GUI](https://www.noesisengine.com/)** 为本软件提供了个人免费授权。
+
 
 **Third Party License**
 
