@@ -17,11 +17,12 @@
 
 [B站](https://space.bilibili.com/481665211/channel/collectiondetail?sid=810148)
 
-** 感谢 **
+---   
+**特别感谢**
 
 感谢 **[Noesis GUI](https://www.noesisengine.com/)** 为本软件提供了个人免费授权。
 
-
+---   
 **Third Party License**
 
 The software contain components from Google MediaPipe, VRM4U, CryptoPP, NoesisGUI, GStreamer (dynamic link). These components are governed by separate agreements and their respective product support policies, but if separate license terms for these components are included directly in the installation directory, those license terms shall control.
