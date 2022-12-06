@@ -10,8 +10,17 @@
 
 **下载地址**
 
-[奶牛快传 (2022-11-24)](https://cowtransfer.com/s/1563e70e28464e)   
-[OneDrive (2022-11-24)](https://1drv.ms/u/s!AkmROUeQfSBjzWN1lFkzmCaoCE0z?e=z63Icv)
+[奶牛快传 (2022-12-06)](https://cowtransfer.com/s/4756dd4ebab946)   
+[OneDrive (2022-12-06)](https://1drv.ms/u/s!AkmROUeQfSBjzWUccgZbUPIklM8C?e=T1MbXp)
+
+**功能**
+
+RGB摄像头实时动补
+RGB摄像头实时面补（实验性）
+Arkit面补支持
+虚拟摄像头
+预制灯光效果
+动画数据导出（BVH 格式）
 
 **视频介绍合集：**
 
@@ -26,3 +35,11 @@
 **Third Party License**
 
 The software contain components from Google MediaPipe, VRM4U, CryptoPP, NoesisGUI, GStreamer (dynamic link). These components are governed by separate agreements and their respective product support policies, but if separate license terms for these components are included directly in the installation directory, those license terms shall control.
+
+## 更新日志
+
+### 12月06日
+
+- BVH 动画数据导出支持
+- 视频动补时间进度条拖动支持
+
