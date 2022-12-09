@@ -10,8 +10,8 @@
 
 **下载地址**
 
-<!-- [奶牛快传 (2022-12-09)](https://cowtransfer.com/s/cd23fdb4593749)   
-[OneDrive (2022-12-09)](https://1drv.ms/u/s!AkmROUeQfSBjzWbeKL_cdrlzYVYa?e=hbDTbN) -->
+[奶牛快传 (2022-12-09)](https://cowtransfer.com/s/0686754708b341)   
+[OneDrive (2022-12-09)](https://1drv.ms/u/s!AkmROUeQfSBjzWeY_l8Gj2PE2r2_)
 
 视频动补有 BUG，紧急下架修复中~
 
