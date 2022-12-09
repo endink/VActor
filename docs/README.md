@@ -10,7 +10,7 @@
 
 **下载地址**
 
-[奶牛快传 (2022-12-06)](https://cowtransfer.com/s/4756dd4ebab946)   
+[奶牛快传 (2022-12-09)](https://cowtransfer.com/s/cd23fdb4593749)   
 [OneDrive (2022-12-06)](https://1drv.ms/u/s!AkmROUeQfSBjzWUccgZbUPIklM8C?e=T1MbXp)
 
 **功能**
@@ -22,6 +22,7 @@
 - 虚拟摄像头
 - 预制灯光效果
 - 动画数据导出（BVH 格式）
+- 自定义渲染效果
 
 **视频介绍合集：**
 
@@ -39,8 +40,15 @@ The software contain components from Google MediaPipe, VRM4U, CryptoPP, NoesisGU
 
 ## 更新日志
 
+### 12月09日
+- [fix]修复纹理流送 BUG（不确定这是不是一个 BUG，见 #5）
+- [fix]脊柱锁定设置不生效 BUG
+- [new]位移标定计时板显示
+- [new]位移锁定（可以控制是否计算/垂直/水平/前后位移）
+- [new]渲染效果控制（实验性：shader 参数调整，支持动态切换 lit,sss,unlit 等效果）
+
 ### 12月06日
 
-- BVH 动画数据导出支持
-- 视频动补时间进度条拖动支持
+- [new]BVH 动画数据导出支持
+- [new]视频动补时间进度条拖动支持
 
