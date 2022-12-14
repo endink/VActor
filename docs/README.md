@@ -10,8 +10,8 @@
 
 **下载地址**
 
-[奶牛快传 (2022-12-09)](https://cowtransfer.com/s/0686754708b341)   
-[OneDrive (2022-12-09)](https://1drv.ms/u/s!AkmROUeQfSBjzWeY_l8Gj2PE2r2_)
+[奶牛快传 (2022-12-15)](https://cowtransfer.com/s/c456fb1a50914d)   
+[OneDrive (2022-12-15)](https://1drv.ms/u/s!AkmROUeQfSBjzWjIwitiIbqDdlNK?e=aEOq9t)
 
 
 **功能**
@@ -40,6 +40,20 @@
 The software contain components from Google MediaPipe, VRM4U, CryptoPP, NoesisGUI, GStreamer (dynamic link). These components are governed by separate agreements and their respective product support policies, but if separate license terms for these components are included directly in the installation directory, those license terms shall control.
 
 ## 更新日志
+### 12月09日
+- [new]半身动补时支持手放时手腕、手指自动回到初始姿态
+- [new]半身动补脊柱二次平滑（曲线插值），可以在弱光环境消除身体抖动
+- [fix]手腕扭曲校正开启后，手腕计算错误
+- [fix]渲染参数重置到默认值界面没刷新
+- [fix]位移计算侧身时深度错误
+- [fix]半身动补和全身动补切换时，可能加载错误的配置参数
+- [improve]没有开启虚拟摄像头时渲染性能提升30%，大幅度提升 FPS
+- [improve]VRM强制开启材质双面（two side）渲染，防止不规范的模型衣服出现漏光
+- [improve]VRM记载Loading界面
+- [improve]VRM文件加载出错提示
+- [improve]优化位移计算方法，位移计算更加准确
+- [improve]脚踝计算改进，加入角度约束，防止脚踝过度翻转
+- [improve]微调 Lumen 设置，提高渲染效果
 
 ### 12月09日
 - [fix]修复纹理流送 BUG（不确定这是不是一个 BUG，见 #5）
