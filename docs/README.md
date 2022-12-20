@@ -10,8 +10,8 @@
 
 **下载地址**
 
-[奶牛快传 (2022-12-15)](https://cowtransfer.com/s/c456fb1a50914d)   
-[OneDrive (2022-12-15)](https://1drv.ms/u/s!AkmROUeQfSBjzWjIwitiIbqDdlNK?e=aEOq9t)
+[奶牛快传 (2022-12-20)](https://cowtransfer.com/s/bab20c9d383c44)   
+[OneDrive (2022-12-20)](https://1drv.ms/u/s!AkmROUeQfSBjzWm3q8idvIJpk5KM?e=MiDGkE)
 
 
 **功能**
@@ -40,6 +40,11 @@
 The software contain components from Google MediaPipe, VRM4U, CryptoPP, NoesisGUI, GStreamer (dynamic link). These components are governed by separate agreements and their respective product support policies, but if separate license terms for these components are included directly in the installation directory, those license terms shall control.
 
 ## 更新日志
+## 12月20日
+-[new]半身模式加入头部算解器，头部旋转使用 face mesh 计算
+-[improve]改善肘部过度扭曲问题（限制旋转）
+-[improve]脊柱链式旋转（优化旋转效果）
+
 ### 12月09日
 - [new]半身动补时支持手放时手腕、手指自动回到初始姿态
 - [new]半身动补脊柱二次平滑（曲线插值），可以在弱光环境消除身体抖动
