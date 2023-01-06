@@ -10,8 +10,8 @@
 
 **下载地址**
 
-[奶牛快传 (2022-12-20)](https://cowtransfer.com/s/bab20c9d383c44)   
-[OneDrive (2022-12-20)](https://1drv.ms/u/s!AkmROUeQfSBjzWm3q8idvIJpk5KM?e=MiDGkE)
+[奶牛快传 (2023-01-07)](https://cowtransfer.com/s/c6c5b401448a4c)   
+[OneDrive (2023-01-07)](https://1drv.ms/u/s!AkmROUeQfSBjzXxCUReBQC86_T7H?e=2tF2NK)
 
 
 **功能**
@@ -40,12 +40,19 @@
 The software contain components from Google MediaPipe, VRM4U, CryptoPP, NoesisGUI, GStreamer (dynamic link). These components are governed by separate agreements and their respective product support policies, but if separate license terms for these components are included directly in the installation directory, those license terms shall control.
 
 ## 更新日志
-## 12月20日
+
+## 2013-01-07
+-[new]面补校准
+-[new]显示/隐藏视频画面
+-[new]显示/隐藏 UI
+-[new]绿幕，UI开关快捷键
+
+## 2022-12-20
 -[new]半身模式加入头部算解器，头部旋转使用 face mesh 计算
 -[improve]改善肘部过度扭曲问题（限制旋转）
 -[improve]脊柱链式旋转（优化旋转效果）
 
-### 12月09日
+### 2022-12-09
 - [new]半身动补时支持手放时手腕、手指自动回到初始姿态
 - [new]半身动补脊柱二次平滑（曲线插值），可以在弱光环境消除身体抖动
 - [fix]手腕扭曲校正开启后，手腕计算错误
@@ -60,14 +67,14 @@ The software contain components from Google MediaPipe, VRM4U, CryptoPP, NoesisGU
 - [improve]脚踝计算改进，加入角度约束，防止脚踝过度翻转
 - [improve]微调 Lumen 设置，提高渲染效果
 
-### 12月09日
+### 2022-12-09
 - [fix]修复纹理流送 BUG（不确定这是不是一个 BUG，见 #5）
 - [fix]脊柱锁定设置不生效 BUG
 - [new]位移标定计时板显示
 - [new]位移锁定（可以控制是否计算/垂直/水平/前后位移）
 - [new]渲染效果控制（实验性：shader 参数调整，支持动态切换 lit,sss,unlit 等效果）
 
-### 12月06日
+### 2022-12-06
 
 - [new]BVH 动画数据导出支持
 - [new]视频动补时间进度条拖动支持
