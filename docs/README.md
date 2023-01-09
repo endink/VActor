@@ -10,8 +10,8 @@
 
 **下载地址**
 
-[奶牛快传 (2023-01-07)](https://cowtransfer.com/s/c6c5b401448a4c)   
-[OneDrive (2023-01-07)](https://1drv.ms/u/s!AkmROUeQfSBjzXxCUReBQC86_T7H?e=2tF2NK)
+[奶牛快传 (2023-01-09)](https://cowtransfer.com/s/a9ad5d176c674c)   
+[OneDrive (2023-01-09)](https://1drv.ms/u/s!AkmROUeQfSBjzX1H4T6l8vdU_Vfv?e=dftUKE)
 
 
 **功能**
@@ -40,17 +40,20 @@
 The software contain components from Google MediaPipe, VRM4U, CryptoPP, NoesisGUI, GStreamer (dynamic link). These components are governed by separate agreements and their respective product support policies, but if separate license terms for these components are included directly in the installation directory, those license terms shall control.
 
 ## 更新日志
+## 2013-01-09
+- [new]VMC协议（发送）支持
+- [improve]半身模式优化，增加均值滤波防抖
 
 ## 2013-01-07
--[new]面补校准
--[new]显示/隐藏视频画面
--[new]显示/隐藏 UI
--[new]绿幕，UI开关快捷键
+- [new]面补校准
+- [new]显示/隐藏视频画面
+- [new]显示/隐藏 UI
+- [new]绿幕，UI开关快捷键
 
 ## 2022-12-20
--[new]半身模式加入头部算解器，头部旋转使用 face mesh 计算
--[improve]改善肘部过度扭曲问题（限制旋转）
--[improve]脊柱链式旋转（优化旋转效果）
+- [new]半身模式加入头部算解器，头部旋转使用 face mesh 计算
+- [improve]改善肘部过度扭曲问题（限制旋转）
+- [improve]脊柱链式旋转（优化旋转效果）
 
 ### 2022-12-09
 - [new]半身动补时支持手放时手腕、手指自动回到初始姿态
