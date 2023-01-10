@@ -40,11 +40,11 @@
 The software contain components from Google MediaPipe, VRM4U, CryptoPP, NoesisGUI, GStreamer (dynamic link). These components are governed by separate agreements and their respective product support policies, but if separate license terms for these components are included directly in the installation directory, those license terms shall control.
 
 ## 更新日志
-## 2013-01-09
+## 2023-01-09
 - [new]VMC协议（发送）支持
 - [improve]半身模式优化，增加均值滤波防抖
 
-## 2013-01-07
+## 2023-01-07
 - [new]面补校准
 - [new]显示/隐藏视频画面
 - [new]显示/隐藏 UI
